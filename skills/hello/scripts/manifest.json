@@ -1,7 +1,0 @@
-{
-  "greet": {
-    "file": "greet.js",
-    "description": "生成友好的问候语",
-    "params": { "role": "自定义角色，如 friend/mentor/stranger" }
-  }
-}
