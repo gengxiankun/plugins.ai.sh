@@ -26,6 +26,14 @@
       "version": "1.0.2",
       "author": "gengxiankun",
       "admin": true
+    },
+    {
+      "id": "tavily-search",
+      "name": "Tavily Search",
+      "description": "实时网页搜索 — 使用 Tavily API 获取互联网最新信息",
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiLz48cGF0aCBkPSJtMjEgMjEtNC4zLTQuMyIvPjwvc3ZnPg==",
+      "version": "1.0.0",
+      "author": "gengxiankun"
     }
   ]
 }
