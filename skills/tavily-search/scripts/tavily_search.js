@@ -5,7 +5,7 @@ execute = async function(args, context) {
 
   var res = await fetch(context.env.WORKER_URL, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + context.env.SUPABASE_ANON_KEY },
     body: JSON.stringify({
       proxy: true,
       proxy_skill_id: 'tavily-search',
