@@ -1,5 +1,5 @@
 ---
-name: 网页抓取
+name: Web Scraper
 description: 网页抓取助手 — 抓取网页和微信公众号文章内容
 triggers: 抓取, 爬取, 网页, 文章, 链接, 微信, 公众号, mp.weixin,
   scrape, fetch, url, http, wechat, 这篇文章, 这个链接

@@ -1,5 +1,5 @@
 ---
-name: 网页搜索
+name: Tavily Search
 description: 实时网页搜索 — 使用 Tavily API 获取互联网最新信息
 triggers: 搜索, 查找, search, 最新, 新闻, 最近, 互联网, 网上
 secrets:

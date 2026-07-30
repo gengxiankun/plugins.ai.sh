@@ -1,5 +1,5 @@
 ---
-name: 管理后台
+name: Admin Console
 description: 站点内容管理后台 — 对文章、帖子、分类、标签、关于、知识库进行增删改查
 triggers: 管理, 后台, admin, 新增, 添加, 创建, create, add, 编辑, 修改, 更新, edit, update,
     删除, remove, delete, 列出, 列表, list, 文章, post, posts,

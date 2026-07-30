@@ -1,5 +1,5 @@
 ---
-name: 通用
+name: General
 description: 通用问答助手（默认 Skill）— 知识库搜索、账号注册与登录
 triggers: 搜索, 查找, 查询, search, find, 什么是, 有没有, 知识库, 帮助, help,
     登录, 登陆, 注册, login, register, sign in, sign up, 账号, 密码
