@@ -34,7 +34,7 @@ execute = async function(args, context) {
     },
     body: JSON.stringify({
       query_embedding: JSON.stringify(embedding),
-      match_threshold: 0.3,
+      match_threshold: 0.5,
       match_count: 5
     })
   })
