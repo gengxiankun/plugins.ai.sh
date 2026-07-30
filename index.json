@@ -3,9 +3,9 @@
   "commands": [],
   "skills": [
     {
-      "id": "qa",
-      "name": "Q&A",
-      "description": "通用问答助手（默认 Skill）— 知识库搜索、站点信息查询、用户注册登录",
+      "id": "general",
+      "name": "通用",
+      "description": "通用问答助手（默认 Skill）— 知识库搜索、账号注册与登录",
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2UtY2lyY2xlLXF1ZXN0aW9uLW1hcmstaWNvbiBsdWNpZGUtbWVzc2FnZS1jaXJjbGUtcXVlc3Rpb24tbWFyayI+PHBhdGggZD0iTTIuOTkyIDE2LjM0MmEyIDIgMCAwIDEgLjA5NCAxLjE2N2wtMS4wNjUgMy4yOWExIDEgMCAwIDAgMS4yMzYgMS4xNjhsMy40MTMtLjk5OGEyIDIgMCAwIDEgMS4wOTkuMDkyIDEwIDEwIDAgMSAwLTQuNzc3LTQuNzE5Ii8+PHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzIi8+PHBhdGggZD0iTTEyIDE3aC4wMSIvPjwvc3ZnPg==",
       "version": "1.0.2",
       "author": "gengxiankun"
